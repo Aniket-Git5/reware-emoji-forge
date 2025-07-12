@@ -1,3 +1,4 @@
+
 import { useState } from 'react';
 import { Search } from 'lucide-react';
 import { DraggableEmoji } from './DraggableEmoji';
@@ -16,7 +17,7 @@ const emojiCategories = {
     '🩲', '🩳', '🦺', '👔', '👕', '👖'
   ],
   'Accessories': [
-    '👓', '🕶️', '🥽', '📿', '💄', '💍', '💎', '💋'
+    '👓', '🕶️', '🥽'
   ]
 };
 
